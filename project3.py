@@ -1,6 +1,11 @@
 import cv2
 import numpy as np
 
+"""
+识别俄罗斯的车牌号
+
+"""
+
 path = "../Resources/p1.jpg"
 # imgPath = "../"
 #############################################
